@@ -1,0 +1,12 @@
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\bin\Debug\net8.0\Shared.dll
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\bin\Debug\net8.0\Shared.pdb
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.dll
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\Shared.pdb
+D:\3.ThS\Subjects\Kien_Truc_Phan_Mem\EdgeComputingArchitecture\SourceCode\SmartAgriSystems-Simple\EdgeArchitecture\Shared\obj\Debug\net8.0\ref\Shared.dll

@@ -1,0 +1,3 @@
+- Serilog
+- Authentication
+- Communication (publish/ subscribe)

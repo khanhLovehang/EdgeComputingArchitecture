@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\migrations\\20250411140608_edgedevicesdbmig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\migrations\\20250411140608_edgedevicesdbmig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\devicesdashboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\devicesdashboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\controllers\\sensorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\controllers\\sensorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\models\\edgedevicesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\models\\edgedevicesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\views\\devices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\views\\devices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|d:\\3.ths\\subjects\\kien_truc_phan_mem\\edgecomputingarchitecture\\sourcecode\\smartagrisystems\\devicesdashboard\\devicesdashboard\\views\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F79BC-E4C2-46A3-818D-7525349E0EFD}|DevicesDashboard\\DevicesDashboard.csproj|solutionrelative:devicesdashboard\\views\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Program.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Program.cs",
+              "RelativeToolTip": "DevicesDashboard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:04:11.536Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Views\\Devices\\Index.cshtml",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Index.cshtml",
+              "RelativeToolTip": "DevicesDashboard\\Views\\Devices\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T14:17:21.82Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SensorApiController.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Controllers\\SensorApiController.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Controllers\\SensorApiController.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Controllers\\SensorApiController.cs",
+              "RelativeToolTip": "DevicesDashboard\\Controllers\\SensorApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:21:07.553Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\appsettings.json",
+              "RelativeDocumentMoniker": "DevicesDashboard\\appsettings.json",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\appsettings.json",
+              "RelativeToolTip": "DevicesDashboard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T07:19:46.912Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250411140608_EdgeDevicesDBMig1.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Migrations\\20250411140608_EdgeDevicesDBMig1.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Migrations\\20250411140608_EdgeDevicesDBMig1.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Migrations\\20250411140608_EdgeDevicesDBMig1.cs",
+              "RelativeToolTip": "DevicesDashboard\\Migrations\\20250411140608_EdgeDevicesDBMig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:19:01.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "compose.yaml",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\compose.yaml",
+              "RelativeDocumentMoniker": "DevicesDashboard\\compose.yaml",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\compose.yaml",
+              "RelativeToolTip": "DevicesDashboard\\compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-26T04:42:22.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Dockerfile",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Dockerfile",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Dockerfile",
+              "RelativeToolTip": "DevicesDashboard\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T04:37:05.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DevicesDashboard",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\DevicesDashboard.csproj",
+              "RelativeDocumentMoniker": "DevicesDashboard\\DevicesDashboard.csproj",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\DevicesDashboard.csproj",
+              "RelativeToolTip": "DevicesDashboard\\DevicesDashboard.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T03:00:00.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EdgeDevicesDbContext.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Models\\EdgeDevicesDbContext.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Models\\EdgeDevicesDbContext.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Models\\EdgeDevicesDbContext.cs",
+              "RelativeToolTip": "DevicesDashboard\\Models\\EdgeDevicesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:18:28.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Views\\Devices\\Edit.cshtml",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Edit.cshtml",
+              "RelativeToolTip": "DevicesDashboard\\Views\\Devices\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T03:10:55.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Models\\Device.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Models\\Device.cs",
+              "RelativeToolTip": "DevicesDashboard\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:12:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Controllers\\DevicesController.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "DevicesDashboard\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAALQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:11:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DevicesDashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:11:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Views\\Devices\\Delete.cshtml",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Delete.cshtml",
+              "RelativeToolTip": "DevicesDashboard\\Views\\Devices\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T15:09:53.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Views\\Devices\\Create.cshtml",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Create.cshtml",
+              "RelativeToolTip": "DevicesDashboard\\Views\\Devices\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T15:09:34.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevicesDashboard\\Views\\Devices\\Details.cshtml",
+              "ToolTip": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems\\DevicesDashboard\\DevicesDashboard\\Views\\Devices\\Details.cshtml",
+              "RelativeToolTip": "DevicesDashboard\\Views\\Devices\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T15:09:33.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

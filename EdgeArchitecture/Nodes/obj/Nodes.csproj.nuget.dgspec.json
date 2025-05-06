@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Nodes\\Nodes.csproj": {}
+  },
+  "projects": {
+    "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Nodes\\Nodes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Nodes\\Nodes.csproj",
+        "projectName": "Nodes",
+        "projectPath": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Nodes\\Nodes.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Nodes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\3.ThS\\Subjects\\Kien_Truc_Phan_Mem\\EdgeComputingArchitecture\\SourceCode\\SmartAgriSystems-Simple\\EdgeArchitecture\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.7.1207, )"
+            },
+            "MQTTnet.Extensions.ManagedClient": {
+              "target": "Package",
+              "version": "[4.3.7.1207, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

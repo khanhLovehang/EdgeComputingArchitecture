@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "DevicesDashboard.Controllers.SensorApiController",
+    "Method": "GetDevices",
+    "RelativePath": "api/v1/devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DevicesDashboard.Controllers.SensorApiController",
+    "Method": "Ping",
+    "RelativePath": "api/v1/devices/ping/{deviceId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+**************** Devices follow ******************
+- Get list sensor from database
+- 

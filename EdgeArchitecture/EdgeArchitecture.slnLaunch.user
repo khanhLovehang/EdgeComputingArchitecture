@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Devices\\Devices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Nodes\\Nodes.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Server\\Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
