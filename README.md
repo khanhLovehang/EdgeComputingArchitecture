@@ -1,2 +1,2 @@
 # Architectures
- Try to apply architures with simple project
+Simple demo edge computing architecture
